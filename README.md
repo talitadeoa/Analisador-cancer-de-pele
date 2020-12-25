@@ -6,10 +6,10 @@ Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto d
 
 Possui 7 classes diferentes de câncer de pele, listadas abaixo:
 
-*Nevos melanocíticos
-*Melanoma
-*Lesões semelhantes a ceratose benigna
-*Carcinoma basocelular
-*Ceratoses actínicas
-*Lesões vasculares
-*Dermatofibroma
+* Nevos melanocíticos
+* Melanoma
+* Lesões semelhantes a ceratose benigna
+* Carcinoma basocelular
+* Ceratoses actínicas
+* Lesões vasculares
+* Dermatofibroma
