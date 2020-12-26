@@ -2,7 +2,9 @@
  
 O câncer de pele é o mais comum, e é diagnosticado principalmente visualmente, começando com uma triagem clínica inicial e seguido potencialmente por análise dermatoscópica, biópsia e exame histopatológico. A classificação automatizada de lesões cutâneas por meio de imagens é uma tarefa desafiadora devido à variabilidade refinada na aparência das lesões cutâneas.
 
-Dataset utilizado: HAM10000 ("Human Against Machine with 10000 training images"). https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+Dataset utilizado: HAM10000 ("Human Against Machine with 10000 training images"). 
+
+https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 
 Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto de treinamento para fins de aprendizado de máquina acadêmico e estão publicamente disponíveis através do arquivo ISIC. Este conjunto de dados de referência pode ser usado para aprendizado de máquina e para comparações com especialistas humanos.
 
