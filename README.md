@@ -41,11 +41,11 @@ Para acessar o projeto demo clique [aqui](drskin.herokuapp.com)
 ---
    <div align="center">
 
-> Este projeto foi desenvolvido com ❤️ por **[@Talita Araujo](https://www.linkedin.com/in/talitadeoa/)** <br>
+> Este projeto foi desenvolvido com ❤️ por **[@Talita Araújo](https://www.linkedin.com/in/talitadeoa/)** <br>
 > Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
   
    </div>
-   
+
 ---
 
    <div align="center">
