@@ -7,7 +7,7 @@ https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 
 Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto de treinamento para fins de aprendizado de máquina acadêmico e estão publicamente disponíveis através do arquivo ISIC. Este conjunto de dados de referência pode ser usado para aprendizado de máquina e para comparações com especialistas humanos.
 
-##### Possui 7 classes diferentes de câncer de pele, listadas abaixo:
+#### Possui 7 classes diferentes de câncer de pele, listadas abaixo:
 
 * Nevos melanocíticos
 * Melanoma
@@ -18,7 +18,7 @@ Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto d
 * Dermatofibroma
 
 
-##### Bibliotecas utilizadas:
+#### Bibliotecas utilizadas:
 
 * Numpy 1.18.0
 * Pandas 1.0.1
@@ -39,14 +39,14 @@ Para acessar o projeto clique aqui: [Demo](drskin.herokuapp.com)
 </p>
 
 ---
-
+   <div align="center">
 > Este projeto foi desenvolvido com ❤️ por **[@Talita Araujo](https://www.linkedin.com/in/talitadeoa/)** <br>
 > Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
-
+   </div>
 ---
 
    <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Talita%20Araujo-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talitadeoa/)](https://www.linkedin.com/in/talitadeoa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Talita%20Araújo-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talitadeoa/)](https://www.linkedin.com/in/talitadeoa/)
 
    </div>
