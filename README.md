@@ -29,3 +29,24 @@ Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto d
 * Keras 2.2.5 
 
 Aplicação final: 
+
+---
+
+<h2 align="center">Licença 📝</h2>
+
+<p align="center">
+   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/felipecastrosales/Happy/blob/master/LICENSE"> LICENSE </a> para mais detalhes. 😉
+</p>
+
+---
+
+> Este projeto foi desenvolvido com ❤️ por **[@Felipe Sales](https://www.linkedin.com/in/felipecastrosales/)**, com o instrutor **[@MaykBrito](https://github.com/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
+> Se isso te ajudou, dê uma ⭐, isso vai me ajudar também! 😉
+
+---
+
+   <div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+
+   </div>
