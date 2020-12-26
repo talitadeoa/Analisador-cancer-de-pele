@@ -28,7 +28,8 @@ Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto d
 * Tensorflow 1.14.0
 * Keras 2.2.5 
 
-Para acessar o projeto clique aqui: [Demo](drskin.heroku)
+Para acessar o projeto clique aqui: [Demo](drskin.herokuapp.com)
+
 ---
 
 <h2 align="center">Licença 📝</h2>
@@ -46,6 +47,6 @@ Para acessar o projeto clique aqui: [Demo](drskin.heroku)
 
    <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talitadeoa/)](https://www.linkedin.com/in/talitadeoa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Talita%20Araujo-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/talitadeoa/)](https://www.linkedin.com/in/talitadeoa/)
 
    </div>
