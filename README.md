@@ -4,7 +4,7 @@ O câncer de pele é o mais comum, e é diagnosticado principalmente visualmente
 
 O dataset consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto de treinamento para fins de aprendizado de máquina acadêmico e estão publicamente disponíveis através do arquivo ISIC. Este conjunto de dados de referência pode ser usado para aprendizado de máquina e para comparações com especialistas humanos.
 
-## Possui 7 classes diferentes de câncer de pele, listadas abaixo:
+#### Possui 7 classes diferentes de câncer de pele, listadas abaixo:
 
 * Nevos melanocíticos
 * Melanoma
@@ -15,7 +15,7 @@ O dataset consiste em 10015 imagens dermatoscópicas que são lançadas como um 
 * Dermatofibroma
 
 
-## Bibliotecas utilizadas:
+#### Bibliotecas utilizadas:
 
 * Numpy 1.18.0
 * Pandas 1.0.1
