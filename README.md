@@ -23,4 +23,5 @@ Consiste em 10015 imagens dermatoscópicas que são lançadas como um conjunto d
 * Plotly 4.7.1
 * Streamlit 0.58.0
 * Tensorflow 1.14.0
-* Keras 2.2.5
+* Keras 2.2.5 
+
