@@ -159,7 +159,8 @@ def main():
                         fig = px.bar(result, x="Classes",
                                      y="Probability", color='Classes')
                         st.plotly_chart(fig, use_container_width=True)
-st.write('Made with ❤️ by Talita Araujo')
+       
+        st.write('Made with ❤️ by Talita Araujo')
 
 if __name__ == "__main__":
     main()
