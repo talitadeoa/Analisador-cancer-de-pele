@@ -20,7 +20,6 @@ def render_header():
         <p align="center"> 
             <H1> Skin cancer Analyzer 
         </p>
-
     """, unsafe_allow_html=True)
 
 
@@ -87,7 +86,7 @@ def display_prediction(y_new):
 
 
 def main():
-    st.sidebar.header('Skin cancer Analyzer')
+    st.sidebar.header('Doctor Skin')
     st.sidebar.subheader('Choose a page to proceed:')
     page = st.sidebar.selectbox("", ["Sample Data", "Upload Your Image"])
 
@@ -95,7 +94,6 @@ def main():
         st.header("Sample Data Prediction for Skin Cancer")
         st.markdown("""
         **Now, this is probably why you came here. Let's get you some Predictions**
-
         You need to choose Sample Data
         """)
 
@@ -159,6 +157,7 @@ def main():
                         fig = px.bar(result, x="Classes",
                                      y="Probability", color='Classes')
                         st.plotly_chart(fig, use_container_width=True)
+
 
 if __name__ == "__main__":
     main()
